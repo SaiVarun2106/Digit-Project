@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Eduvia Academy Parent Portal",
+  "description": "An integrated educational command station linking high-fidelity student diagnostics, personalized parent quiz assignments, and live learning actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
